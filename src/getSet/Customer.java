@@ -1,4 +1,4 @@
-package oop.getset.practices;
+package getSet;
 
 public class Customer {
 
