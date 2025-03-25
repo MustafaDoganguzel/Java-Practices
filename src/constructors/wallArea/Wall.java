@@ -1,4 +1,4 @@
-package constructors;
+package constructors.wallArea;
 
 //Wall Area Computation
 //Write a class with the name Wall. The class needs two fields (instance variables) with name width
